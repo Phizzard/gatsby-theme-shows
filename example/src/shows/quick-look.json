@@ -1,0 +1,19 @@
+{
+  "id": 2,
+  "title": "Quick Look",
+  "slug": "quick-look",
+  "description": "",
+  "image": "",
+  "logo": "",
+  "episodes": [
+    {
+      "id": 2,
+      "title": "Monster Hunter World",
+      "slug": "monster-hunter-world",
+      "description": "Jason's fresh off the boat and ready to hunt. Tune in for some early, non-spoiler, and beginner friendly carving.",
+      "embededSrc": "https://www.giantbomb.com/videos/embed/14801/",
+      "rawSrc": "https://static-giantbombvideo.cbsistatic.com/vr/2018/01/25/vf_mhw_012418_3200.mp4",
+      "image": "https://giantbomb1.cbsistatic.com/uploads/screen_kubrick/23/233047/2994964-mhweb.jpg"
+    }
+  ]
+}

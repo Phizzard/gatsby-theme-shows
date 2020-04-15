@@ -6,12 +6,15 @@
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
+    "clean": "gatsby clean",
     "build": "gatsby build"
   },
   "dependencies": {
     "gatsby": "^2.19.45",
-    "gatsby-theme-minimal": "^1.0.0",
+    "gatsby-theme-shows": "^1.0.0",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "styled-components": "^5.0.1",
+    "styled-system": "^5.1.5"
   }
 }

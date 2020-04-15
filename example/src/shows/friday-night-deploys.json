@@ -1,0 +1,28 @@
+{
+  "id": 1,
+  "title": "Friday Night Deploys",
+  "slug": "friday-night-deploys",
+  "description": "",
+  "image": "",
+  "logo": "",
+  "episodes": [
+    {
+      "id": 1,
+      "title": "#1 - JOBS",
+      "slug": "jobs",
+      "description": "This week the DevPlebs talk about: Dieting! Being broke! The srcset attribute! Anime transformations! MasterChef Season 10! Jobs? Forever 21! Six Pack Shortcuts! Getting Ghosted! Blackmailing To Climb Your Way Up The Corporate Ladder! The Canadian Dollar! Phil's Old Face! Keith's Young Face! 5 Easy Steps To Earn A Six Figure Salary!",
+      "embededSrc": "https://www.podbean.com/media/player/atj67-c5ad49&?from=usersite&vjs=1&skin=1&fonts=Helvetica&auto=0&download=1",
+      "rawSrc": "",
+      "image": ""
+    },
+    {
+      "id": 5,
+      "title": "#2 - Work Life BATMAN",
+      "slug": "work-life-batman",
+      "description": "This week the DevPlebs talk about: Being unfunny! Fire extinguishers! The Microsoft Zune! Phil's Snobby Frame Rate Preferences! The Caped Crusader! Hype-Driven Development! The end of the Matrix where Neo jumps through Agent Smith! The Simpsons questionable animation practices! Cannibalizing Senior Developers! Billionaires! Having an existential crisis!",
+      "embededSrc": "https://www.podbean.com/media/player/65cc8-c6b13d&?from=usersite&vjs=1&skin=1&fonts=Helvetica&auto=0&download=1",
+      "rawSrc": "",
+      "image": ""
+    }
+  ]
+}
